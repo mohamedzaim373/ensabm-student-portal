@@ -59,15 +59,4 @@ npm install
 npm start
 ```
 
-## Captures d'écran
 
-[Ajoutez des captures d'écran de votre application ici]
-
-## Contributeurs
-
-- [Hamza-El-Mourabit](https://github.com/Hamza-El-Mourabit)
-- [Galdro-0](https://github.com/Galdro-0)
-
-## Licence
-
-Ce projet est sous licence MIT.
